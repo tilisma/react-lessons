@@ -9,7 +9,7 @@ function App() {
           <h2 className="name">Beyonce</h2>
           <img
             className="circle-img"
-            src="https://blackhistorywall.files.wordpress.com/2010/02/picture-device-independent-bitmap-119.jpg"
+            src="https://iau.edu.lc/wp-content/uploads/2016/09/dummy-image.jpg"
             alt="avatar_img"
           />
         </div>
